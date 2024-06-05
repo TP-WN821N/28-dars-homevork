@@ -667,6 +667,10 @@ body {
   padding: 0px 140px;
 }
 
+.header_shrink {
+  box-shadow: 0 4px 10px #252424;
+}
+
 .nav {
   padding: 15px 0;
   justify-content: space-between;
